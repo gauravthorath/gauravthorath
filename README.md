@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Gaurav Thorat 👋
 
-<!--
-**gauravthorath/gauravthorath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Frontend Developer with over 14 years of experience in software development. Here's what I work on:
 
-Here are some ideas to get you started:
+- 🌐 Frontend Technologies: React, TypeScript, Angular, Vite, Redux
+- 🛠️ Tools: Git, Docker, Kubernetes, CI/CD
+- 📚 Open Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Projects
+- [Project A](https://github.com/username/project-a) - Description of project A.
+- [Project B](https://github.com/username/project-b) - Description of project B.
+
+## Contact Me
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Email](mailto:your.email@example.com)
