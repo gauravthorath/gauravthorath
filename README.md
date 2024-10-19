@@ -66,10 +66,10 @@
 
 ---
 <details>
-<summary>🗂️ Recent Projects</summary>
+<summary>🗂️ View Projects</summary>
 
 
-## 1. CSOX
+## CSOX
 - **Description**: A performance-optimized ReactJS application built with Theia and Material UI, featuring AGGrid for enhanced user experience. The project includes automated deployment processes using CI/CD pipelines on GitLab and is hosted on AWS.
 - **Technologies**: 
   - ReactJS
@@ -82,7 +82,7 @@
 
 ---
 
-## 2. Justtrack Application
+## Justtrack Application
 - **Description**: A feature-rich application using ReactJS, React Table, Tanstack Query, and Redux to enhance overall functionality and UI. It incorporates Cypress for E2E testing, improving product reliability and stability.
 - **Technologies**: 
   - ReactJS
@@ -95,7 +95,7 @@
 
 ---
 
-## 3. Finacle
+## Finacle
 - **Description**: A comprehensive banking solution integrating Finacle with React for dynamic user interfaces and Polymer for web component development, enhancing modularity and reusability.
 - **Technologies**: 
   - ReactJS
@@ -107,7 +107,7 @@
 
 ---
 
-## 4. ATS Core Frontend
+## ATS Core Frontend
 - **Description**: A frontend application built with Angular 6 using CLI and Angular Material. It includes login, routing, localization, and other components, providing a robust UI framework.
 - **Technologies**: 
   - Angular 6 with CLI
@@ -115,7 +115,7 @@
 
 ---
 
-## 5. Timber Preserve Management
+## Timber Preserve Management
 - **Description**: A comprehensive timber management application with features such as production scheduling, treatment cycles, volume calculations, and export capabilities to Excel and PDF using the WKHTMLTOPDF library.
 - **Technologies**: 
   - Sencha Architect 4.2
@@ -126,7 +126,7 @@
 
 ---
 
-## 6. Tricore - Grand Rapid Reports
+## Tricore - Grand Rapid Reports
 - **Description**: A reporting system designed to generate various reports, including receiving, batch, and pre-batch reports, using SSRS and SQL Server 2014 for efficient data handling and reporting.
 - **Technologies**: 
   - SSRS
@@ -134,7 +134,7 @@
 
 ---
 
-## 7. Gas Management System (GMS)
+## Gas Management System (GMS)
 - **Description**: A gas management system developed using ASP.NET MVC and other related technologies, featuring volume loading, nominations, allocations, and report generation capabilities.
 - **Technologies**: 
   - ASP.NET MVC
@@ -151,7 +151,7 @@
 
 ---
 
-## 8. Brewery Process Management
+## Brewery Process Management
 - **Description**: A process management system developed using Angular 4, featuring comprehensive management of materials, equipment, and packaging processes.
 - **Technologies**: 
   - Angular 4
@@ -163,7 +163,7 @@
 
 ---
 
-## 9. QR Code Scanner Web App
+## QR Code Scanner Web App
 - **Description**: A web-based QR code scanner app that uses Instascan JavaScript library and WebRTC to allow users to scan QR codes and retrieve relevant documents.
 - **Technologies**: 
   - Bootstrap
@@ -173,7 +173,7 @@
 
 ---
 
-## 10. OPARM (Organizational Projects Asset Retention and Management)
+## OPARM (Organizational Projects Asset Retention and Management)
 - **Description**: A system designed for project asset retention and management, incorporating features such as skill matrix management and domain exposure tracking.
 - **Technologies**: 
   - ASP.NET MVC 4
@@ -186,7 +186,7 @@
 
 ---
 
-## 11. Next Gen Portal
+## Next Gen Portal
 - **Description**: A next-gen portal featuring library creation, user management, topic management, and more, developed using ASP.NET MVC and Entity Framework.
 - **Technologies**: 
   - ASP.NET MVC
@@ -199,7 +199,7 @@
 
 ---
 
-## 12. Power Transmission Project
+## Power Transmission Project
 - **Description**: A power transmission project developed using C#.NET and ASP.NET MVC, involving data collection from various locations and centralized storage on the server.
 - **Technologies**: 
   - C#.NET
@@ -212,7 +212,7 @@
 
 ---
 
-## 13. Business Mobile App
+## Business Mobile App
 - **Description**: A mobile app built with ASP.NET and C#.NET, featuring data fetching from the database and notifications for both Android and iOS platforms.
 - **Technologies**: 
   - ASP.NET
@@ -223,7 +223,7 @@
 
 ---
 
-## 14. iOS Mobile App with Admin
+## iOS Mobile App with Admin
 - **Description**: A comprehensive iOS mobile application featuring an admin section, built using ASP.NET, C#.NET, and SQL Server.
 - **Technologies**: 
   - ASP.NET
@@ -234,7 +234,7 @@
 
 ---
 
-## 15. Transport Application - Snylsis
+## Transport Application - Snylsis
 - **Description**: A transport management application featuring shipment, vehicle, driver, and customer management, developed with ASP.NET MVC.
 - **Technologies**: 
   - ASP.NET MVC
@@ -245,7 +245,7 @@
 
 ---
 
-## 16. San Joaquin Valley (SJV) App Upgrade
+## San Joaquin Valley (SJV) App Upgrade
 - **Description**: A project upgrading applications from .NET 3.5/2.0 to .NET 4.5, with pre- and post-migration SAST scanning for vulnerability checks.
 - **Technologies**: 
   - ASP.NET
@@ -258,7 +258,7 @@
 
 ---
 
-## 17. Project Management System (PMS)
+## Project Management System (PMS)
 - **Description**: A project management system developed to manage project assignments, track progress, and generate reports using ASP.NET and C#.NET.
 - **Technologies**: 
   - VS2010
@@ -271,7 +271,7 @@
 
 ---
 
-## 18. Customer Relationship Management (CRM)
+## Customer Relationship Management (CRM)
 - **Description**: A CRM system designed to manage customer interactions and sales processes, built using ASP.NET and C#.NET.
 - **Technologies**: 
   - VS2010
@@ -284,7 +284,7 @@
 
 ---
 
-## 19. Pathology System
+## Pathology System
 - **Description**: A pathology system featuring report management and data retrieval using smartcard readers, developed with VB.NET and SQL Server.
 - **Technologies**: 
   - VB.NET
@@ -296,7 +296,7 @@
 
 ---
 
-## 20. File Tracking System
+## File Tracking System
 - **Description**: A file tracking system utilizing RFID tags and handheld readers, developed with C#.NET and SQL Server.
 - **Technologies**: 
   - C#.NET
@@ -307,7 +307,7 @@
 
 ---
 
-## 21. Bicycle Kitting Management
+## Bicycle Kitting Management
 - **Description**: A smartcard-based system developed to manage bicycle manufacturing processes and supervisor authentication using NFC multi-smartcards.
 - **Technologies**: 
   - C#.NET
