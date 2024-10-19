@@ -67,7 +67,9 @@
 ---
 
 ## 🗂️ Recent Projects
-# Projects Portfolio
+<details>
+<summary>🗂️ Recent Projects</summary>
+
 
 ## 1. CSOX
 - **Description**: A performance-optimized ReactJS application built with Theia and Material UI, featuring AGGrid for enhanced user experience. The project includes automated deployment processes using CI/CD pipelines on GitLab and is hosted on AWS.
@@ -314,7 +316,8 @@
   - SQL Server 2008
   - NFC Multi Smartcard
   - RFID Tags
-  
+</details>
+
 ---
 
 📫 **Contact me**:
