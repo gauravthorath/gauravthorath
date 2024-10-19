@@ -66,7 +66,7 @@
 
 ---
 
-## Recent Projects
+## 🗂️ Recent Projects
 - [Project A](https://github.com/username/project-a) - Description of project A.
 - [Project B](https://github.com/username/project-b) - Description of project B.
   
