@@ -65,10 +65,8 @@
 - ServiceNow-CreateNow, Git, JIRA, Atlassian, GitLab, GitHub, CI/CD, Docker, Kubernetes
 
 ---
-
-## 🗂️ Recent Projects
 <details>
-<summary>🗂️ Recent Projects</summary>
+<summary>## 🗂️ Recent Projects</summary>
 
 
 ## 1. CSOX
