@@ -68,8 +68,8 @@
 
 📫 **Contact me**:
 
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Email](mailto:your.email@example.com)
+- [LinkedIn]([[https://linkedin.com/in/gauravthorath])  
+- [Email](mailto:gauravjobs25@gmail.com)
 
 ---
 
