@@ -66,7 +66,7 @@
 
 ---
 <details>
-<summary>## 🗂️ Recent Projects</summary>
+## <summary>🗂️ Recent Projects</summary>
 
 
 ## 1. CSOX
