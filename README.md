@@ -66,17 +66,15 @@
 
 ---
 
+## Recent Projects
+- [Project A](https://github.com/username/project-a) - Description of project A.
+- [Project B](https://github.com/username/project-b) - Description of project B.
+  
+---
+
 📫 **Contact me**:
 
 - [LinkedIn](https://linkedin.com/in/gauravthorath)  
 - [Email](mailto:gauravjobs25@gmail.com)
 
----
 
-## Recent Projects
-- [Project A](https://github.com/username/project-a) - Description of project A.
-- [Project B](https://github.com/username/project-b) - Description of project B.
-
-## Contact Me
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Email](mailto:your.email@example.com)
