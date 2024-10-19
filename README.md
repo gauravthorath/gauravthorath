@@ -68,7 +68,7 @@
 
 📫 **Contact me**:
 
-- [LinkedIn]([https://linkedin.com/in/gauravthorath])  
+- [LinkedIn](https://linkedin.com/in/gauravthorath)  
 - [Email](mailto:gauravjobs25@gmail.com)
 
 ---
