@@ -320,7 +320,8 @@
 
 📫 **Contact me**:
 
-- [LinkedIn](https://linkedin.com/in/gauravthorath)  
+- [LinkedIn](https://linkedin.com/in/gauravthorath)
+- [Portfolio](https://gauravthorath.github.io/Portfolio/)
 - [Email](mailto:gauravjobs25@gmail.com)
 
 
