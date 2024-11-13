@@ -17,7 +17,7 @@
 ![Testing Frameworks](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=C21325)
 ![Testing Frameworks](https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=17202C)
 
-- Jest, Cypress, React Testing Library, Playwright, Jasmin
+- Playwright, Cypress, React Testing Library, Jest, Jasmin
 
 ### 🎨 UI Libraries
 ![UI Libraries](https://img.shields.io/badge/UI-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=7952B3)
@@ -39,6 +39,7 @@
 
 ### 🛠️ Other Libraries
 - Remirror (SVG rendering, markdown content)
+- TipTap editor
 - Instascan.JS (Barcode, QR code scanning)
 - GoJs (Interactive graphics)
 - React-Leaflet (Maps)
