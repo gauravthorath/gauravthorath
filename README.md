@@ -70,6 +70,18 @@
 <details>
 <summary>🗂️ View Projects</summary>
 
+## Papayo AI
+- **Description**: A Complementary AI solutions that empowers HR & recruitment teams to go beyond their current productivity and efficiency, and drive positive change to their work life balances.
+- **Technologies**: 
+  - ReactJS
+  - TypeScript
+  - Tailwind CSS
+  - React Query
+  - React Table
+  - Github CI/CD
+  - Playwright
+  - Node JS
+  - Python
 
 ## CSOX
 - **Description**: A performance-optimized ReactJS application built with Theia and Material UI, featuring AGGrid for enhanced user experience. The project includes automated deployment processes using CI/CD pipelines on GitLab and is hosted on AWS.
