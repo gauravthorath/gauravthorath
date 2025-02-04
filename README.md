@@ -16,7 +16,7 @@
 ### 🧪 Testing Frameworks
 ![Testing Frameworks](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=C21325)
 ![Testing Frameworks](https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=17202C)
-![Testing Frameworks](https://img.shields.io/badge/Testing-playwright-informational?style=flat&logo=cypress&logoColor=white&color=17202C)
+![Testing Frameworks](https://img.shields.io/badge/Testing-playwright-informational?style=flat&logo=playwright&logoColor=white&color=17202C)
 
 - Playwright, Cypress, React Testing Library, Jest, Jasmin
 
