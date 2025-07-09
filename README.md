@@ -4,14 +4,14 @@
 
 ## 🛠 Skills & Expertise
 
-### 🖥️ Frontend Technologies
+### 🖥️ Frontend & Backend Technologies
 ![Frontend Tech](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![Frontend Tech](https://img.shields.io/badge/Frontend-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![Frontend Tech](https://img.shields.io/badge/Frontend-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 
-- **Frameworks/Libraries**: React, JavaScript, TypeScript, Angular, Angular.js, Webpack, Redux, MobX
+- **Frameworks/Libraries**: React, JavaScript, TypeScript, Angular, Angular.js, Node, C#, MVC, Express, Redux, MobX, Zustand
 - **Styling**: CSS, SCSS, PWA, HTML5, JSON, WCAG 2.x Accessibility
-- **Tooling**: Vite, SaaS platforms, Theia, HTTP/AJAX
+- **Tooling**: Vite, Webpack, SaaS platforms, Theia, HTTP/AJAX
 
 ### 🧪 Testing Frameworks
 ![Testing Frameworks](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=C21325)
