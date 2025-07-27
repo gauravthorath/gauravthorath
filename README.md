@@ -9,7 +9,7 @@
 ![Frontend Tech](https://img.shields.io/badge/Frontend-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![Frontend Tech](https://img.shields.io/badge/Frontend-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 
-- **Frameworks/Libraries**: React, JavaScript, TypeScript, Angular, Angular.js, Node, C#, MVC, Express, Redux, MobX, Zustand
+- **Frameworks/Libraries**: React, Next, JavaScript, TypeScript, Angular, Angular.js, Node, C#, MVC, Express, Redux, MobX, Zustand
 - **Styling**: CSS, SCSS, PWA, HTML5, JSON, WCAG 2.x Accessibility
 - **Tooling**: Vite, Webpack, SaaS platforms, Theia, HTTP/AJAX
 
